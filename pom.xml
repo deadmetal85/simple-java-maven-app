@@ -56,7 +56,7 @@
             </goals>
             <configuration>
               <rules>
-                <requireMavenVrsion>
+                <requireMavenVersion>
                   <version>[3.8.7,)</version>
                 </requireMavenVersion>
                 <requireJavaVersion>
